@@ -1,0 +1,34 @@
+body{
+    background-image: url('https://rare-gallery.com/uploads/posts/4581200-mega-man-mega-man-x-retro-games-video-games-pixel-art.jpg');
+    background-size: cover;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+}
+
+img{
+    width: 50px;
+}
+.gamebtn{
+    
+    border: 3px solid black;
+    border-radius: 50%;
+    padding: 30px;
+    cursor: pointer;
+}
+.reset-score-button{
+    padding: 10px;
+    width: 150px;
+    border: none;
+    font-size: 18px;
+}
+.reset-confirm-button {
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.reset-confirm-button {
+  margin-left: 10px;
+}
